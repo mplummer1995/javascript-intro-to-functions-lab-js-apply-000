@@ -15,7 +15,7 @@ function logWhisper (string){
 }
 
 function sayHiToGrandma (string){
- if (sayHiToGrandma(string) === whisper); return ("I can\'t hear you!")
+ if (string) === whisper); return ("I can\'t hear you!")
 }
 
 function sayHiToGrandma (string){
