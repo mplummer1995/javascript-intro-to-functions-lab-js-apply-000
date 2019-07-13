@@ -6,8 +6,6 @@ function whisper (string) {
   return string.toLowerCase()
 }
 
-let whisper 
-
 function logShout (string) {
   console.log(string.toUpperCase())
 }
